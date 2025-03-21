@@ -1,19 +1,3 @@
-## Hi there 👋
-
-<!--
-**sid732/sid732** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hi there! 👋 I'm Siddharth Nashikkar
 
 💻 **Full-Stack Software Engineer** | 🎓 MS in Software Engineering Systems @ Northeastern University  
@@ -39,18 +23,25 @@ Here are some ideas to get you started:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Across All Accounts)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sid732&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sid732&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sid732&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sid732&show_icons=true&theme=radical" alt="GitHub Stats - sid732" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Siddharth-NEU&show_icons=true&theme=radical" alt="GitHub Stats - Siddharth-NEU" />
+  <img src="https://github-readme-stats.vercel.app/api?username=siddharth-nashikkar&show_icons=true&theme=radical" alt="GitHub Stats - siddharth-nashikkar" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sid732&theme=radical" alt="GitHub Streak - sid732" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddharth-NEU&theme=radical" alt="GitHub Streak - Siddharth-NEU" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharth-nashikkar&theme=radical" alt="GitHub Streak - siddharth-nashikkar" />
 </p>
 
 ---
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/siddharth-nashikkar)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/sid732)  
+[![GitHub (Main)](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/sid732)  
+[![GitHub (Alt)](https://img.shields.io/badge/GitHub%20NEU-darkblue?style=for-the-badge&logo=github)](https://github.com/Siddharth-NEU)  
+[![GitHub (Alt)](https://img.shields.io/badge/GitHub%20Nashikkar-darkgreen?style=for-the-badge&logo=github)](https://github.com/siddharth-nashikkar)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=web)](https://siddharth-nashikkar.me/)  
 
 📧 Email: **nashikkarsid@gmail.com**
