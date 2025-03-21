@@ -23,11 +23,11 @@
 
 ---
 
-## 📊 GitHub Stats (Across All Accounts)
+## 📊 GitHub Stats (Across All Accounts - All Time)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sid732&show_icons=true&theme=radical" alt="GitHub Stats - sid732" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddharth-NEU&show_icons=true&theme=radical" alt="GitHub Stats - Siddharth-NEU" />
-  <img src="https://github-readme-stats.vercel.app/api?username=siddharth-nashikkar&show_icons=true&theme=radical" alt="GitHub Stats - siddharth-nashikkar" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sid732&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats - sid732" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Siddharth-NEU&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats - Siddharth-NEU" />
+  <img src="https://github-readme-stats.vercel.app/api?username=siddharth-nashikkar&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats - siddharth-nashikkar" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sid732&theme=radical" alt="GitHub Streak - sid732" />
