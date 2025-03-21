@@ -21,10 +21,6 @@ I'm a **Senior Software Engineer** with **3.8+ years** of experience specializin
 - 🧠 Research in **Machine Learning** applied to social networks and economic forecasting
 - 📱 Developed solutions for clients including **Starbucks**, **Boeing**, and **Google**
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sid732&theme=nord&column=7&no-frame=true&no-bg=true" alt="Trophy Stats" />
-</div>
-
 ## 🛠️ Tech Stack
 
 <div align="center">
