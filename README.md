@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Siddharth Nashikkar
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3584E4&center=true&vCenter=true&width=435&lines=Full-Stack+Software+Engineer;Cloud+%26+Distributed+Systems+Specialist;MS+in+Software+Engineering+@+NEU" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3584E4&center=true&vCenter=true&width=435&lines=Senior+Software+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast;Published+Researcher;Educator+%26+Mentor" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -12,13 +12,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Software Engineer** with **3.8+ years** of experience specializing in cloud-native solutions, microservices, and distributed systems. Currently pursuing my Master's in Software Engineering Systems at Northeastern University, Boston.
+I'm a **Senior Software Engineer** with **3.8+ years** of experience specializing in Full Stack Development using Spring Boot, React, and SQL. Currently pursuing a Master's in Software Engineering Systems at Northeastern University, Boston.
 
-- 🔭 Working on: Cloud infrastructure automation and real-time aurora prediction systems
-- 🌱 Learning: Advanced AWS architectures, Kubernetes, and AI/ML integration
-- 💼 Previously: Senior Software Engineer at Persistent Systems (Vertex Inc. integration)
-- 🚀 Passionate about: Building scalable systems, optimizing performance, and solving complex problems
-- 🌍 Located in: Boston, MA (Open to Remote & Relocation)
+- 🏢 Previously: Senior Software Engineer at **Persistent Systems (Oracle/Vertex Inc. integration)**
+- 🎓 MS in Software Engineering Systems at **Northeastern University, Boston**
+- 📚 BS in Computer Science and Engineering from **Shivaji University, India**
+- 👨‍🏫 Former Teacher at **Vidya Bhavan Computer Institute** (taught 100+ students)
+- 🧠 Research in **Machine Learning** applied to social networks and economic forecasting
+- 📱 Developed solutions for clients including **Starbucks**, **Boeing**, and **Google**
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sid732&theme=nord&column=7&no-frame=true&no-bg=true" alt="Trophy Stats" />
@@ -29,26 +30,27 @@ I'm a **Full-Stack Software Engineer** with **3.8+ years** of experience special
 <div align="center">
   
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Redux-Saga](https://img.shields.io/badge/Redux_Saga-999999?style=for-the-badge&logo=redux-saga&logoColor=white)
   
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-  
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
   
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+  ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
   
 </div>
 
@@ -63,37 +65,124 @@ I'm a **Full-Stack Software Engineer** with **3.8+ years** of experience special
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sid732&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="98%" />
 </div>
 
-## 🌟 Featured Projects
+## 🎓 Certifications
 
 <div align="center">
-  <a href="https://siddharth-nashikkar.me/#projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sid732&repo=LightsTrail&theme=tokyonight&hide_border=true" width="49%" alt="LightsTrail"/>
-  </a>
-  <a href="https://siddharth-nashikkar.me/#projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sid732&repo=CloudInfrastructure&theme=tokyonight&hide_border=true" width="49%" alt="Cloud Infrastructure"/>
-  </a>
+  <table>
+    <tr>
+      <td><img width="40" src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/></td>
+      <td>ReactJS Developer Bootcamp (2022)</td>
+      <td><img width="40" src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/></td>
+      <td>PCAP: Programming Essentials in Python - Cisco (2020)</td>
+    </tr>
+    <tr>
+      <td><img width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/></td>
+      <td>Java Tutorial Course - Sololearn (2021)</td>
+      <td><img width="40" src="https://img.icons8.com/color/48/000000/microsoft.png" alt="Microsoft"/></td>
+      <td>Intro to Programming using Python - MTA (2020)</td>
+    </tr>
+    <tr>
+      <td><img width="40" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/></td>
+      <td>JavaScript Tutorial Course - Sololearn (2020)</td>
+      <td><img width="40" src="https://img.icons8.com/color/48/000000/html-5.png" alt="Web Dev"/></td>
+      <td>HTML, CSS, JS for Web Developers - Coursera (2020)</td>
+    </tr>
+    <tr>
+      <td><img width="40" src="https://img.icons8.com/color/48/000000/data-configuration.png" alt="Data Science"/></td>
+      <td>The Data Scientist's Toolbox - Coursera (2019)</td>
+      <td><img width="40" src="https://img.icons8.com/color/48/000000/combo-chart--v1.png" alt="Data Science"/></td>
+      <td>Data Science - Internshala Training (2019)</td>
+    </tr>
+  </table>
 </div>
 
-## 🏆 Professional Achievements
+## 📝 Publications
+
+<div align="center">
+  <table>
+    <tr>
+      <td>🔬</td>
+      <td><b>Recession Prediction using SVM and Linear Regression</b><br />International Journal for Research in Applied Science & Engineering Technology (2023)</td>
+    </tr>
+    <tr>
+      <td>🧠</td>
+      <td><b>Social Network Mental Disorders Detection</b><br />International Journal for Research in Applied Science & Engineering Technology (2023)</td>
+    </tr>
+    <tr>
+      <td>🚦</td>
+      <td><b>Traffic Signal Synchronization and Dynamic Control</b><br />International Journal for Research in Applied Science & Engineering Technology (2023)</td>
+    </tr>
+  </table>
+</div>
+
+## 🌟 Notable Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3>🌟 Key Accomplishments</h3>
+      <h3>🏦 Tax Accelerator for Oracle-Vertex Integration</h3>
       <ul>
-        <li>Streamlined Oracle-Vertex integration, onboarding 5 new enterprise customers</li>
-        <li>Improved reporting accuracy by 30% with optimized BI Publisher reports</li>
-        <li>Increased data engineering efficiency by 45% through database revamp</li>
-        <li>Reduced AWS costs by 20% using infrastructure optimization techniques</li>
+        <li>Streamlined customer onboarding process, reducing from multi-week to single-click implementation</li>
+        <li>Onboarded 5 new enterprise customers and improved reporting accuracy by 30%</li>
+        <li>Increased revenue by 40% and reduced customer complaints by 60%</li>
+        <li><b>Technologies:</b> Java, Spring Boot, React, Redux, Oracle, REST APIs</li>
       </ul>
     </td>
     <td width="50%">
-      <h3>🧠 Technical Expertise</h3>
+      <h3>🧠 Social Network Mental Disorders Detection</h3>
       <ul>
-        <li>Microservices Architecture & API Design</li>
-        <li>Distributed Systems & Cloud-Native Applications</li>
-        <li>CI/CD Pipelines & DevOps Practices</li>
-        <li>Data Engineering & Analytics Solutions</li>
+        <li>Implemented ML algorithms (KNN, Naive Bayes, Random Forest) to detect 6 types of mental disorders</li>
+        <li>Research published in international journal</li>
+        <li>Improved early detection capabilities for potential interventions</li>
+        <li><b>Technologies:</b> Python, Machine Learning, Data Analysis</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📈 Recession Prediction System</h3>
+      <ul>
+        <li>Employed SVM and Linear Regression to predict inflation rates</li>
+        <li>Visualized yield curves using Matplotlib with 86% accuracy</li>
+        <li>Research published in international journal</li>
+        <li><b>Technologies:</b> Python, Machine Learning, Matplotlib</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🚦 Traffic Signal Synchronization</h3>
+      <ul>
+        <li>Built prototype hardware system using Arduino and IR Sensors</li>
+        <li>Developed companion Android app to show real-time signal status</li>
+        <li>Improved traffic flow efficiency in unplanned city areas</li>
+        <li><b>Technologies:</b> Arduino, Android, IR Sensors, Java</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+## 🏆 Achievements & Activities
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🌟 Professional</h3>
+      <ul>
+        <li>High-Five Individual Award for quick learning at Persistent Systems (2021)</li>
+        <li>Conducted 4 brown bag sessions and trained 5+ new joiners</li>
+        <li>Improved tax solutions for Starbucks, Boeing, and Google</li>
+        <li>5-Star in Python on HackerRank and HackerEarth</li>
+        <li>160+ problems solved on LeetCode</li>
+        <li>Cleared TCS CodeVita Season 9 Round 1 (Rank 8687)</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🧠 Academic & Extracurricular</h3>
+      <ul>
+        <li>Co-Founder and teacher of the Coding Club at DYPCET</li>
+        <li>Finalist at the Eureka Hackathon at G H Raisoni, Pune</li>
+        <li>1st rank at the Open Book Programming competition at DYPCET</li>
+        <li>District Level and College Level Soccer Player</li>
+        <li>Taught C/C++, Java, HTML/CSS/JavaScript, Python, React, and MySQL to 100+ students as part-time faculty</li>
       </ul>
     </td>
   </tr>
@@ -129,25 +218,10 @@ I'm a **Full-Stack Software Engineer** with **3.8+ years** of experience special
   </table>
 </div>
 
-## 📚 Learning & Growth
+## 📊 LeetCode Stats
 
 <div align="center">
-  <a href="https://www.coursera.org/">
-    <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera" />
-  </a>
-  <a href="https://www.udemy.com/">
-    <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy" />
-  </a>
-  <a href="https://www.freecodecamp.org/">
-    <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp" />
-  </a>
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img src="https://leetcard.jacoblin.cool/sid732?theme=dark&font=Roboto%20Mono&ext=activity" alt="LeetCode Stats" />
 </div>
 
 ## 📱 Let's Connect
@@ -169,6 +243,7 @@ I'm a **Full-Stack Software Engineer** with **3.8+ years** of experience special
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sid732&style=flat-square&color=blue" alt="Profile Views" />
   <br>
+  <p><i>"The best way to predict the future is to invent it."</i> — Alan Kay</p>
   <i>💡 All accounts, one portfolio: <a href="https://siddharth-nashikkar.me/">siddharth-nashikkar.me</a></i>
 </div>
 
