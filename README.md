@@ -7,19 +7,17 @@
 <div align="center">
   <a href="https://siddharth-nashikkar.me/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firebase&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/siddharth-nashikkar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:nashikkarsid@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  
 </div>
 
 ## 👨‍💻 About Me
 
-I'm a **Senior Software Engineer** with **3.8+ years** of experience specializing in Full Stack Development using Spring Boot, React, and SQL. Currently pursuing a Master's in Software Engineering Systems at Northeastern University, Boston.
+I'm a **Senior Software Engineer** with **3.8+ years** of experience specializing in Full Stack Development using Spring Boot, React, SQL and Cloud(AWS, GCP, Azure). Currently pursuing a Master's in Software Engineering Systems at Northeastern University, Boston.
 
 - 🏢 Previously: Senior Software Engineer at **Persistent Systems (Oracle/Vertex Inc. integration)**
 - 🎓 MS in Software Engineering Systems at **Northeastern University, Boston**
 - 📚 BS in Computer Science and Engineering from **Shivaji University, India**
-- 👨‍🏫 Former Teacher at **Vidya Bhavan Computer Institute** (taught 100+ students)
 - 🧠 Research in **Machine Learning** applied to social networks and economic forecasting
-- 📱 Developed solutions for clients including **Starbucks**, **Boeing**, and **Google**
 
 ## 🛠️ Tech Stack
 
@@ -30,7 +28,14 @@ I'm a **Senior Software Engineer** with **3.8+ years** of experience specializin
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-7f03fc?style=for-the-badge&logo=css3&logoColor=white)
+  ![GoLang](https://img.shields.io/badge/GoLang-1572B6?style=for-the-badge&logo=go&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+
   
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -41,68 +46,58 @@ I'm a **Senior Software Engineer** with **3.8+ years** of experience specializin
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+  ![MongoDb](https://img.shields.io/badge/MongoDB-3aa600?style=for-the-badge&logo=mongodb&logoColor=black)
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
   
+
+
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+  ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
   ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+
+
+
+
+
+
+
   
 </div>
 
-## 🎓 Certifications
 
-<div align="center">
-  <table>
-    <tr>
-      <td><img width="40" src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/></td>
-      <td>ReactJS Developer Bootcamp (2022)</td>
-      <td><img width="40" src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/></td>
-      <td>PCAP: Programming Essentials in Python - Cisco (2020)</td>
-    </tr>
-    <tr>
-      <td><img width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/></td>
-      <td>Java Tutorial Course - Sololearn (2021)</td>
-      <td><img width="40" src="https://img.icons8.com/color/48/000000/microsoft.png" alt="Microsoft"/></td>
-      <td>Intro to Programming using Python - MTA (2020)</td>
-    </tr>
-    <tr>
-      <td><img width="40" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/></td>
-      <td>JavaScript Tutorial Course - Sololearn (2020)</td>
-      <td><img width="40" src="https://img.icons8.com/color/48/000000/html-5.png" alt="Web Dev"/></td>
-      <td>HTML, CSS, JS for Web Developers - Coursera (2020)</td>
-    </tr>
-    <tr>
-      <td><img width="40" src="https://img.icons8.com/color/48/000000/data-configuration.png" alt="Data Science"/></td>
-      <td>The Data Scientist's Toolbox - Coursera (2019)</td>
-      <td><img width="40" src="https://img.icons8.com/color/48/000000/combo-chart--v1.png" alt="Data Science"/></td>
-      <td>Data Science - Internshala Training (2019)</td>
-    </tr>
-  </table>
-</div>
 
-## 📝 Publications
 
-<div align="center">
-  <table>
-    <tr>
-      <td>🔬</td>
-      <td><b>Recession Prediction using SVM and Linear Regression</b><br />International Journal for Research in Applied Science & Engineering Technology (2023)</td>
-    </tr>
-    <tr>
-      <td>🧠</td>
-      <td><b>Social Network Mental Disorders Detection</b><br />International Journal for Research in Applied Science & Engineering Technology (2023)</td>
-    </tr>
-    <tr>
-      <td>🚦</td>
-      <td><b>Traffic Signal Synchronization and Dynamic Control</b><br />International Journal for Research in Applied Science & Engineering Technology (2023)</td>
-    </tr>
-  </table>
-</div>
 
 ## 🌟 Notable Projects
 
 <table>
+<tr>
+    <td width="50%">
+      <h3>☁️ Cloud Resource Optimization</h3>
+      <ul>
+        <li>Designed a cost-efficient cloud architecture that reduced operational costs by 25%</li>
+        <li>Implemented auto-scaling strategies to optimize resource allocation</li>
+        <li>Enhanced cloud security with IAM policies and logging</li>
+        <li><b>Technologies:</b> AWS, Google Cloud, Azure, Terraform, Kubernetes</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🌌 Lighttrail: Aurora Prediction System</h3>
+      <ul>
+        <li>Developed a web application that predicts auroras and provides real-time alerts</li>
+        <li>Integrated a dynamic map to visualize aurora activity across the globe</li>
+        <li>Analyzed space weather data to improve prediction accuracy</li>
+        <li><b>Technologies:</b> JavaScript, React, Python, Supabase, OpenWeather API</li>
+      </ul>
+    </td>
+  </tr>
   <tr>
     <td width="50%">
       <h3>🏦 Tax Accelerator for Oracle-Vertex Integration</h3>
@@ -144,34 +139,65 @@ I'm a **Senior Software Engineer** with **3.8+ years** of experience specializin
     </td>
   </tr>
 </table>
+## 🎓 Certifications
 
-## 🏆 Achievements & Activities
+<div align="center">
+  <table>
+<tr>
+      <td><img width="40" src="https://img.icons8.com/?size=100&id=RduYmqw5H7xm&format=png&color=000000" alt="React"/></td>
+      <td>Atlassian Agile Project Management Professional Certificate</td>
+      <td><img width="40" src="https://img.icons8.com/color/48/000000/docker.png" alt="Python"/></td>
+      <td>Docker Foundations Professional Certificate</td>
+    </tr>
+    <tr>
+      <td><img width="40" src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/></td>
+      <td>ReactJS Developer Bootcamp</td>
+      <td><img width="40" src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/></td>
+      <td>PCAP: Programming Essentials in Python - Cisco</td>
+    </tr>
+    <tr>
+      <td><img width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/></td>
+      <td>Java Tutorial Course - Sololearn</td>
+      <td><img width="40" src="https://img.icons8.com/color/48/000000/microsoft.png" alt="Microsoft"/></td>
+      <td>Intro to Programming using Python - MTA</td>
+    </tr>
+    <tr>
+      <td><img width="40" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/></td>
+      <td>JavaScript Tutorial Course - Sololearn</td>
+      <td><img width="40" src="https://img.icons8.com/color/48/000000/html-5.png" alt="Web Dev"/></td>
+      <td>HTML, CSS, JS for Web Developers - Coursera</td>
+    </tr>
+    <tr>
+      <td><img width="40" src="https://img.icons8.com/color/48/000000/data-configuration.png" alt="Data Science"/></td>
+      <td>The Data Scientist's Toolbox - Coursera</td>
+      <td><img width="40" src="https://img.icons8.com/color/48/000000/combo-chart--v1.png" alt="Data Science"/></td>
+      <td>Data Science - Internshala Training</td>
+    </tr>
+  </table>
+</div>
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🌟 Professional</h3>
-      <ul>
-        <li>High-Five Individual Award for quick learning at Persistent Systems (2021)</li>
-        <li>Conducted 4 brown bag sessions and trained 5+ new joiners</li>
-        <li>Improved tax solutions for Starbucks, Boeing, and Google</li>
-        <li>5-Star in Python on HackerRank and HackerEarth</li>
-        <li>160+ problems solved on LeetCode</li>
-        <li>Cleared TCS CodeVita Season 9 Round 1 (Rank 8687)</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>🧠 Academic & Extracurricular</h3>
-      <ul>
-        <li>Co-Founder and teacher of the Coding Club at DYPCET</li>
-        <li>Finalist at the Eureka Hackathon at G H Raisoni, Pune</li>
-        <li>1st rank at the Open Book Programming competition at DYPCET</li>
-        <li>District Level and College Level Soccer Player</li>
-        <li>Taught C/C++, Java, HTML/CSS/JavaScript, Python, React, and MySQL to 100+ students as part-time faculty</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+## 📝 Publications
+
+<div align="center">
+  <table>
+    <tr>
+      <td>🔬</td>
+      <td><b>Recession Prediction using SVM and Linear Regression</b><br />International Journal for Research in Applied Science & Engineering Technology (2023)</td>
+    </tr>
+    <tr>
+      <td>🧠</td>
+      <td><b>Social Network Mental Disorders Detection</b><br />International Journal for Research in Applied Science & Engineering Technology (2023)</td>
+    </tr>
+    <tr>
+      <td>🚦</td>
+      <td><b>Traffic Signal Synchronization and Dynamic Control</b><br />International Journal for Research in Applied Science & Engineering Technology (2023)</td>
+    </tr>
+  </table>
+</div>
+
+
+
+
 
 ## 🌐 All My GitHub Accounts
 
@@ -193,7 +219,7 @@ I'm a **Senior Software Engineer** with **3.8+ years** of experience specializin
       <td align="center">
         <a href="https://github.com/siddharth-nashikkar">
           <b>siddharth-nashikkar</b><br>
-          <small>Personal Projects</small>
+          <small>Work</small>
         </a>
       </td>
     </tr>
@@ -209,9 +235,7 @@ I'm a **Senior Software Engineer** with **3.8+ years** of experience specializin
   <a href="https://www.linkedin.com/in/siddharth-nashikkar/">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" alt="LinkedIn"/>
   </a>
-  <a href="mailto:nashikkarsid@gmail.com">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png" alt="Mail"/>
-  </a>
+  
 </div>
 
 ---
