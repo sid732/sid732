@@ -50,17 +50,6 @@ I'm a **Senior Software Engineer** with **3.8+ years** of experience specializin
   
 </div>
 
-## 📊 My Coding Journey
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sid732&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sid732&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sid732&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="98%" />
-</div>
-
 ## 🎓 Certifications
 
 <div align="center">
@@ -191,33 +180,24 @@ I'm a **Senior Software Engineer** with **3.8+ years** of experience specializin
     <tr>
       <td align="center">
         <a href="https://github.com/sid732">
-          <img src="https://github-readme-stats.vercel.app/api?username=sid732&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true" alt="sid732 Stats" width="100%" />
           <b>sid732</b><br>
           <small>Main Professional Account</small>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/Siddharth-NEU">
-          <img src="https://github-readme-stats.vercel.app/api?username=Siddharth-NEU&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true" alt="Siddharth-NEU Stats" width="100%" />
           <b>Siddharth-NEU</b><br>
           <small>Academic Projects</small>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/siddharth-nashikkar">
-          <img src="https://github-readme-stats.vercel.app/api?username=siddharth-nashikkar&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true" alt="siddharth-nashikkar Stats" width="100%" />
           <b>siddharth-nashikkar</b><br>
           <small>Personal Projects</small>
         </a>
       </td>
     </tr>
   </table>
-</div>
-
-## 📊 LeetCode Stats
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/sid732?theme=dark&font=Roboto%20Mono&ext=activity" alt="LeetCode Stats" />
 </div>
 
 ## 📱 Let's Connect
@@ -237,8 +217,6 @@ I'm a **Senior Software Engineer** with **3.8+ years** of experience specializin
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sid732&style=flat-square&color=blue" alt="Profile Views" />
-  <br>
   <p><i>"The best way to predict the future is to invent it."</i> — Alan Kay</p>
   <i>💡 All accounts, one portfolio: <a href="https://siddharth-nashikkar.me/">siddharth-nashikkar.me</a></i>
 </div>
