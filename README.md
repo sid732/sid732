@@ -362,15 +362,15 @@ research: 3 published papers (ML)
 
 <!-- GitHub Stats + Streak -->
 <div align="center">
-  <img height="195" src="https://github-readme-stats-eight-eta-22.vercel.app/api?username=sid732&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-  <img height="195" src="https://streak-stats.demolab.com/?user=sid732&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img height="195" src="https://github-readme-stats-eight-eta-22.vercel.app/api?username=sid732&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+  <img height="195" src="https://streak-stats.demolab.com/?user=sid732&theme=default&hide_border=true" alt="Streak Stats" />
 </div>
 
 <br/>
 
 <!-- Top Languages -->
 <div align="center">
-  <img src="https://github-readme-stats-eight-eta-22.vercel.app/api/top-langs/?username=sid732&theme=tokyonight&hide_border=true&langs_count=10&layout=compact&card_width=860" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-eta-22.vercel.app/api/top-langs/?username=sid732&theme=default&hide_border=true&langs_count=10&layout=compact&card_width=860" alt="Top Languages" />
 </div>
 
 ---
