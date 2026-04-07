@@ -347,38 +347,30 @@ research: 3 published papers (ML)
 
 <br/>
 
+<!-- Profile Views + Trophies -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sid732&style=for-the-badge&color=58A6FF" alt="Profile Views" />
 </div>
 
 <br/>
 
-<!-- GitHub Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy-pi-one.vercel.app/?username=sid732&theme=tokyonight&no-frame=true&title=MultiLanguage,Commits,PullRequest,Repositories,Experience&column=5" alt="Trophies" />
+  <img src="https://github-profile-trophy-pi-one.vercel.app/?username=sid732&theme=tokyonight&no-frame=true&title=MultiLanguage,Commits,PullRequest,Repositories,Experience&column=5&margin-w=8" alt="Trophies" />
 </div>
 
 <br/>
 
-<!-- GitHub Stats + Streak (side by side) -->
+<!-- GitHub Stats + Streak -->
 <div align="center">
-  <img src="https://github-readme-stats-eight-eta-22.vercel.app/api?username=sid732&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=sid732&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img height="195" src="https://github-readme-stats-eight-eta-22.vercel.app/api?username=sid732&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+  <img height="195" src="https://streak-stats.demolab.com/?user=sid732&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
 <br/>
 
 <!-- Top Languages -->
 <div align="center">
-  <img src="https://github-readme-stats-eight-eta-22.vercel.app/api/top-langs/?username=sid732&theme=tokyonight&hide_border=true&langs_count=10&layout=compact" alt="Top Languages" />
-</div>
-
-<br/>
-
-<!-- Contribution Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sid732&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-stats-eight-eta-22.vercel.app/api/top-langs/?username=sid732&theme=tokyonight&hide_border=true&langs_count=10&layout=compact&card_width=860" alt="Top Languages" />
 </div>
 
 ---
