@@ -333,20 +333,6 @@ research: 3 published papers (ML)
 
 ---
 
-## 📱 Let's Connect
-
-<div align="center">
-  <a href="https://siddharth-nashikkar.me/">
-    <img height="40" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png" alt="Portfolio"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/siddharth-nashikkar/">
-    <img height="40" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" alt="LinkedIn"/>
-  </a>
-</div>
-
-<br/>
-
 <!-- Profile Views + Trophies -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sid732&style=for-the-badge&color=58A6FF" alt="Profile Views" />
@@ -364,18 +350,32 @@ research: 3 published papers (ML)
 <table width="100%" border="0">
   <tr>
     <td align="center" width="50%">
-      <img width="100%" src="https://github-readme-stats-eight-eta-22.vercel.app/api?username=sid732&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&cache_seconds=0" alt="GitHub Stats" />
+      <img width="100%" src="https://github-readme-stats-eight-eta-22.vercel.app/api?username=sid732&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&cache_seconds=1800" alt="GitHub Stats" />
     </td>
     <td align="center" width="50%">
-      <img width="100%" src="https://streak-stats.demolab.com/?user=sid732&theme=default&hide_border=true&cache_seconds=0" alt="Streak Stats" />
+      <img width="100%" src="https://streak-stats.demolab.com/?user=sid732&theme=default&hide_border=true&cache_seconds=1800" alt="Streak Stats" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img width="100%" src="https://github-readme-stats-eight-eta-22.vercel.app/api/top-langs/?username=sid732&theme=default&hide_border=true&langs_count=10&layout=compact&cache_seconds=0" alt="Top Languages" />
+      <img width="100%" src="https://github-readme-stats-eight-eta-22.vercel.app/api/top-langs/?username=sid732&theme=default&hide_border=true&langs_count=10&layout=compact&cache_seconds=1800" alt="Top Languages" />
     </td>
   </tr>
 </table>
+
+---
+
+## 📱 Let's Connect
+
+<div align="center">
+  <a href="https://siddharth-nashikkar.me/">
+    <img height="40" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png" alt="Portfolio"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/siddharth-nashikkar/">
+    <img height="40" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" alt="LinkedIn"/>
+  </a>
+</div>
 
 ---
 
