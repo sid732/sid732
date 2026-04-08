@@ -333,6 +333,8 @@ research: 3 published papers (ML)
 
 ---
 
+## 📊 GitHub Stats
+
 <!-- Profile Views + Trophies -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sid732&style=for-the-badge&color=58A6FF" alt="Profile Views" />
