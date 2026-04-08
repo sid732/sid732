@@ -168,7 +168,7 @@ research: 3 published papers (ML)
       <p align="center">
         <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
         <img src="https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat-square&logo=spring&logoColor=white" />
         <img src="https://img.shields.io/badge/RAG-7B68EE?style=flat-square" />
         <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
       </p>
@@ -205,7 +205,7 @@ research: 3 published papers (ML)
       <p>LLM-integrated distributed actor system with fault tolerance and clustering. Implements embeddings, tokenization, attention mechanisms, and RAG pipelines with vector and graph databases. Built with Akka actors and Spring AI for scalable AI agent orchestration.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Akka-15A9CE?style=flat-square&logo=akka&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat-square&logo=spring&logoColor=white" />
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
         <img src="https://img.shields.io/badge/Vector_DBs-00C7B7?style=flat-square" />
