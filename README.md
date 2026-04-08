@@ -352,7 +352,7 @@ research: 3 published papers (ML)
 <table width="100%" border="0">
   <tr>
     <td align="center" width="50%">
-      <img width="100%" src="https://github-readme-stats-eight-eta-22.vercel.app/api?username=sid732&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&cache_seconds=1800" alt="GitHub Stats" />
+      <img width="100%" src="https://github-readme-stats-eight-eta-22.vercel.app/api?username=sid732&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues&cache_seconds=1800" alt="GitHub Stats" />
     </td>
     <td align="center" width="50%">
       <img width="100%" src="https://streak-stats.demolab.com/?user=sid732&theme=default&hide_border=true&cache_seconds=1800" alt="Streak Stats" />
