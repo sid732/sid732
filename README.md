@@ -364,15 +364,15 @@ research: 3 published papers (ML)
 <table width="100%" border="0">
   <tr>
     <td align="center" width="50%">
-      <img width="100%" src="https://github-readme-stats-eight-eta-22.vercel.app/api?username=sid732&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues" alt="GitHub Stats" />
+      <img width="100%" src="https://github-readme-stats-eight-eta-22.vercel.app/api?username=sid732&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&cache_seconds=0" alt="GitHub Stats" />
     </td>
     <td align="center" width="50%">
-      <img width="100%" src="https://streak-stats.demolab.com/?user=sid732&theme=default&hide_border=true" alt="Streak Stats" />
+      <img width="100%" src="https://streak-stats.demolab.com/?user=sid732&theme=default&hide_border=true&cache_seconds=0" alt="Streak Stats" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img width="100%" src="https://github-readme-stats-eight-eta-22.vercel.app/api/top-langs/?username=sid732&theme=default&hide_border=true&langs_count=10&layout=compact" alt="Top Languages" />
+      <img width="100%" src="https://github-readme-stats-eight-eta-22.vercel.app/api/top-langs/?username=sid732&theme=default&hide_border=true&langs_count=10&layout=compact&cache_seconds=0" alt="Top Languages" />
     </td>
   </tr>
 </table>
