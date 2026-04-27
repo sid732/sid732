@@ -2,7 +2,7 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Siddharth%20Nashikkar&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20%C2%B7%20iOS%20%C2%B7%20AI%20Systems%20%C2%B7%20Cloud&descSize=18&descAlignY=54&descAlign=50" width="100%" />
 
-  <a href="https://siddharth-nashikkar.me/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firebase&logoColor=white" /></a>
+  <a href="https://siddharth-nashikkar.com/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firebase&logoColor=white" /></a>
   <a href="https://linkedin.com/in/siddharth-nashikkar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:nashikkar.siddharth@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
@@ -370,7 +370,7 @@ research: 3 published papers (ML)
 ## 📱 Let's Connect
 
 <div align="center">
-  <a href="https://siddharth-nashikkar.me/">
+  <a href="https://siddharth-nashikkar.com/">
     <img height="40" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png" alt="Portfolio"/>
   </a>
   &nbsp;&nbsp;
