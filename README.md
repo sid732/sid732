@@ -162,15 +162,19 @@ research: 3 published papers (ML)
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">💳 iOS Credit Card & Bill Manager</h3>
-      <p align="center"><i>Native iOS App · Swift · AI-Powered</i></p>
-      <p>Native Swift/SwiftUI app with MVVM architecture following Apple HIG. Spring Boot backend with <b>AI-powered document intelligence</b> — uses LLMs, embeddings, and RAG to auto-detect bill emails, extract billing data, and enable semantic search across transactions. Features anomaly detection, due-date reminders, and gamification.</p>
+      <h3 align="center">💳 CredTrack — Finance & Bill Tracker</h3>
+      <p align="center"><i>iOS · Spring Boot · Akka AI Agent · GCP</i></p>
+      <p>Three-service personal finance platform: native <b>SwiftUI</b> iOS app with NeoPop design system, Spring Boot REST backend (Java 17, PostgreSQL, Firebase auth, BIN lookup), and an <b>Akka-based AI agent</b> (Java 21) that polls Gmail and extracts credit card statements using <b>Gemini with Ollama fallback</b>. Deployed to <b>GCP Cloud Run via Terraform</b> with GitHub Actions CI/CD.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
         <img src="https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-        <img src="https://img.shields.io/badge/RAG-7B68EE?style=flat-square" />
-        <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+        <img src="https://img.shields.io/badge/Akka-15A9CE?style=flat-square&logo=akka&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+        <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
       </p>
     </td>
     <td width="50%">
