@@ -18,7 +18,7 @@
 
 ```yaml
 name:     Siddharth Nashikkar
-role:     Software Engineer · 4+ years
+role:     Software Engineer · 5+ years
 focus:    Full Stack · iOS · AI Systems · Cloud
 school:   MS Software Engineering Systems @ Northeastern (Dec 2026)
 research: 3 published papers (ML)
